@@ -1,3 +1,7 @@
+# GCIDESK
+Self-host customized remote desktop client based on RustDesk open source project.
+This customized build uses SignPath Foundation for Windows Authenticode code signing.
+
 # 😍在lejianwen/rustdesk项目😍
 # 版本1.4.2的基础上实现以下功能
 
